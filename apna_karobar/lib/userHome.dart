@@ -75,7 +75,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
                         Column(
                           children: [
                             Text(
-                              "RS 0",
+                              "RS 10",
                               style: TextStyle(
                                   color: Colors.redAccent,
                                   fontSize: 18,
